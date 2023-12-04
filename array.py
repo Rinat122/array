@@ -1,7 +1,7 @@
 def find_cargo():
     cargo_weights = [150, 283, 280]
     total_weight = sum(cargo_weights)
-    cargo_locations = [3, 7, 10]
+    cargo_locations = [1, 3, 7]
     box_locations = [0, 0, 0]
 
     print("Martian Spaceship Cargo Finding Program\n====================================")
